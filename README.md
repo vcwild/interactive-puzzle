@@ -1,5 +1,6 @@
 # Customscripts
-> This is a small Command Line puzzle game that was developed while studying python OOP properties.
+
+> This is a small command line puzzle game developed by studying python OOP properties.
 
 ## To Run the Game:
 
