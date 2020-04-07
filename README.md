@@ -4,6 +4,7 @@
 ## To Run the Game:
 
 - **Make sure your python env is python 3.7 or later**
+
 Clone this repo
 
 ```
@@ -18,8 +19,10 @@ python3 main.py
 ```
 
 ### Tools Used
+
 - Python native compiler
 - Python native libraries
 
 #### Note:
-The game libraries use fstrings syntax, only working in python 3.7 or later.
+
+The game libraries use fstrings syntax, pyenv 3.7 or later.
