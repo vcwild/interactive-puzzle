@@ -38,9 +38,9 @@ class Character:
         return self.item
 
 
-# Starting a subclass
+# Starting a subclass of Character
 class Enemy(Character):
-    # Create a enemy
+    # Create an enemy
     def __init__(self, char_name, char_description, item_name=None):
         # Statement to create a subclass based on the superclass
         super().__init__(char_name, char_description)
