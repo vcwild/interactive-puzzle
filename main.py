@@ -1,8 +1,8 @@
-from character import Enemy
-from character import Friend
+from src.character import Enemy
+from src.character import Friend
 from random import choice
-from room import Room
-from item import Item
+from src.room import Room
+from src.item import Item
 
 # Basegame
 item_list = ['banana', 'sword', 'melon', 'pillow', 'pistol', 'flip-flops', 'pinky']
