@@ -12,11 +12,10 @@ Clone this repo
 git clone https://github.com/vcwild/customscripts.git
 ```
 
-From the project root directory execute **main.py** inside *"./main"* folder
+From the project root directory execute **main.py**
 
 ```
 ## Make sure you are in root
-cd "./main"
 python3 main.py
 ```
 
