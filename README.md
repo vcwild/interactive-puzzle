@@ -4,7 +4,10 @@
 
 ## To Run the Game:
 
-- **Make sure your python env is python 3.7 or later**
+- **Make sure your python venv is 3.7 or later**
+```
+python3 --version
+```
 
 Clone this repo
 
