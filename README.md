@@ -1,4 +1,4 @@
-# Customscripts
+# Interactive Puzzle
 
 > This is a small command line puzzle game developed by using the Python built-in libraries and OOP.
 
